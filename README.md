@@ -26,7 +26,7 @@ This dashboard was created using Power BI to visualize key business metrics and 
 #### Dashboard Preview
 
 <p align="center">
-  <img src="images/Online sales Dashboard.png" alt="Sales Dashboard" width="900">
+  <img src="Online sales Dashboard.png" alt="Sales Dashboard" width="900">
 </p>
 
 ### Dashboard Features
