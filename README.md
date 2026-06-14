@@ -31,11 +31,12 @@ This dashboard was created using Power BI to visualize key business metrics and 
 
 ### Dashboard Features
 
-✅ Total Revenue Analysis  
-✅ Monthly Sales Trends  
+✅ Total Revenue, Product, Price Analysis  
+✅ Revenue by Monthly  
 ✅ Revenue by Category  
 ✅ Revenue by City  
 ✅ Best Selling Products  
+✅ Count of Order
 ✅ Interactive Filters & Slicers  
 
 ### Tools Used
