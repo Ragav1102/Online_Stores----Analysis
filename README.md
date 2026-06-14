@@ -17,7 +17,34 @@
 </div>
 
 ---
+## 📊 Power BI Dashboard
 
+### Sales Analytics Dashboard
+
+This dashboard was created using Power BI to visualize key business metrics and sales performance.
+
+#### Dashboard Preview
+
+<p align="center">
+  <img src="images/Online sales Dashboard.png" alt="Sales Dashboard" width="900">
+</p>
+
+### Dashboard Features
+
+✅ Total Revenue Analysis  
+✅ Monthly Sales Trends  
+✅ Revenue by Category  
+✅ Revenue by City  
+✅ Best Selling Products  
+✅ Interactive Filters & Slicers  
+
+### Tools Used
+
+- Power BI
+- Python Pandas
+- Excel
+- Data Cleaning & Transformation
+  
 ## 📌 About This Repository
 
 This repository contains practical examples and projects built using **Python Pandas**. It is designed to help beginners and aspiring Data Analysts understand how to work with real-world datasets and generate meaningful insights.
